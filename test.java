@@ -1,3 +1,10 @@
+/**
+ * this file represent the JUnit test Demo
+ * DevOps foundations: CI/CD course
+ * Linkedin learning
+ *
+ */
+
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import org.junit.jupiter.api.Test;
