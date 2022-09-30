@@ -2,4 +2,10 @@
 // linkedin course
 // learning devops foundations: CI/CD
 
-printf("this is a test using vim editor");
+#include <stdio.h>
+
+int main(){
+
+     printf("this is a test using vim editor");
+     return 0;
+}
