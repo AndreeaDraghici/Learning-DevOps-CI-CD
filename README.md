@@ -33,4 +33,6 @@ Continuous delivery is one of the major DevOps practice areas.
 
    2.6. UI and security testing
 
+## Useful links
 
+https://testing.googleblog.com/
