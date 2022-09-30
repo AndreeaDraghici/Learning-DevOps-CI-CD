@@ -1,5 +1,5 @@
 // created this file using vim editor
-// this is a test
+// linkedin course
 // learning devops foundations: CI/CD
-// exit from vim and added this file to git
-// Andreea Drg
+
+printf("this is a test using vim editor");
